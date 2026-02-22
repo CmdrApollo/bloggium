@@ -1,6 +1,6 @@
 # On Worldbuilding
 
-## How to Make Languages and the Cultures Speak Them
+## How to Make Languages and the Cultures That Speak Them
 
 A Guide by Elly
 
