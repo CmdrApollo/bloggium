@@ -1,1 +1,1 @@
-Check out the [most recent post](posts/on-conlanging-part-1.md)!
+Check out the [most recent post](posts/on-worldbuilding-how-to-make-languages-and-the-cultures-that-speak-them.md)!
