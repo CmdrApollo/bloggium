@@ -6,6 +6,8 @@ A Guide by Elly
 
 ---
 
+**NOTE**: This guide is *under construction*. It **is not complete**!
+
 # Introduction
 
 Worldbuilding has become a thing of legend in recent years, seen as a difficult artform meant for the lucky few who can grasp its many complexities. Despite this, I believe that you needn’t be a creative genius to begin worldbuilding and creating interesting works. This guide aims to deconstruct the complexities of worldbuilding into its principal parts and give you the tools to arrange the parts as you see fit. Worldbuilding is also an essential skill for science fiction or fantasy authors, as even a decent grasp on worldbuilding can have the ability to transform otherwise mediocre works into modern classics.  
