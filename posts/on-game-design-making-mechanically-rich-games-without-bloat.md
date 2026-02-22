@@ -1,4 +1,4 @@
-# On Game Deisng: Making Mechanically Rich Games Without Bloat
+# On Game Design: Making Mechanically Rich Games Without Bloat
 
 A Guide by Elly
 
