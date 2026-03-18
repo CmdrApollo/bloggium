@@ -1,0 +1,49 @@
+# On Programming: Programming Languages as Art
+
+by Elly
+
+---
+
+Programming languages are often viewed in a very utilitarian way: as a simple means to an end. Choosing a programming language, for many, is viewed as a balancing act between readability and performance, leading to endless debates over the “best” programming language. Despite this, I find all programming languages to be immensely beautiful in their own ways. Not only are programming languages a potential means of making art, but they are art in their own right. The example that immediately comes to mind for me is [*The Zen of Python*](https://peps.python.org/pep-0020/). This python-language easter egg outlines the guiding principles behind good pythonic code as described by the PEP standard. Both the poem itself and the [Source Code for *The Zen of Python*](https://github.com/python/cpython/blob/main/Lib/this.py) are wonderful examples of programming languages as art, but in two very different ways. The poem, though largely humorous, describes a form of code seen as contemporarily beautiful. On the other hand, the source code for the poem is a form of code that is seen as esoteric or even ugly depending on the reader. Despite the generally negative reaction to bad code practices, I believe that, much like with any art form, esoteric, strange, and otherwise abstract artworks have their place just as any contemporary artwork does. For example, a fairly conventional painting, though perhaps seen by a few as "better" than the alternative, has no greater value or importance when compared to more abstract works of art. Although clean code is just as legitimate and just as beautiful as other code, the remainder of this text will be focusing on the beauty of esoteric programming and why you should create your own esoteric programming languages or at the very least look into some existing ones.
+
+However, before talking about esoteric programming languages, I want to take a brief look at esoteric code written in conventional programming languages. In order to do so, I will be taking a look at an example brought up earlier, the source code for *The Zen of Python*. So without further ado, skipping past the portion of the code that is just encoding the text of the poem itself, here is the main logic behind *The Zen of Python*.
+
+```py
+d = {}
+for c in (65, 97):
+    for i in range(26):
+        d[chr(i+c)] = chr((i+13) % 26 + c)
+
+print("".join([d.get(c, c) for c in s]))
+```
+
+Finally, I thought it would be remiss of me to not take a crack at creating an esolang for this article. So here is a simple "Hello, World!" program written in my (unnamed) esolang that is inspired by Brainfuck, but meant to be a slightly more "readable" adaptation of the ideas originated there.
+
+```py
+a = 'A'
+
+26 (
+    a.
+    a+
+)
+```
+
+```py
+a='A'26(a.a+) # alphabet print
+```
+
+```py
+a=' '127(a.a+) # ascii print
+```
+
+```py
+n;n[n!10.n-] # countdown
+```
+
+```py
+n;n[1!]0! # truth machine
+```
+
+```py
+n;x=0y=1z=0x!10.y!10.2(n-)n(z=x y(z+)y=x x=z x!10.) # fibonacci
+```
