@@ -2,3 +2,6 @@
 
 On Worldbuilding
 * [How to Make Languages and the Cultures That Speak Them (In Progress)](posts/on-worldbuilding-how-to-make-languages-and-the-cultures-that-speak-them.md)
+
+󱤰󱥚󱥍󱦗󱥵󱥣󱦘
+* [About 󱤰󱥚󱥍󱦗󱥵󱥣󱦘](ma-sewi-pi-wawa-suli/index.md)
