@@ -1,1 +1,1 @@
- 󱤰󱥚󱥍󱦗󱥵󱥣󱦘 is a fantasy worldbuilding project written entirely in toki pona (mostly using the sitelen pona script). It consists of a number of short pieces that, as they are written, will slowly reveal more about the world of 󱤰󱥚󱥍󱦗󱥵󱥣󱦘 !
+ 󱥀󱥣󱥍󱦗󱥵󱤾󱦘 is a fantasy worldbuilding project written entirely in toki pona (mostly using the sitelen pona script). It consists of a number of short pieces that, as they are written, will slowly reveal more about the world of 󱥀󱥣󱥍󱦗󱥵󱤾󱦘 !
