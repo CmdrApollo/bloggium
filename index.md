@@ -1,7 +1,7 @@
 *CmdrApollo / Blog* is split into a number of categories under which I write articles, essays, and other texts regarding many topics that I find interesting.
 
+On Language
+* [Language Learning as a Hobby](posts/on-language-language-learning-as-a-hobby.md)
+
 On Worldbuilding
 * [How to Make Languages and the Cultures That Speak Them (In Progress)](posts/on-worldbuilding-how-to-make-languages-and-the-cultures-that-speak-them.md)
-
-󱥀󱥣󱥍󱦗󱥵󱤾󱦘
-* [About 󱥀󱥣󱥍󱦗󱥵󱤾󱦘󱦘](ma-sewi-pi-wawa-suli/index.md)
